@@ -1,0 +1,8 @@
+.btn_container{
+    height: 150px;
+    width: 150px;
+    border-radius: 10px;
+    box-shadow: 1px 2px 2px gray;
+    margin-right: 20px;
+    background-color: rgb(107, 129, 148);
+}

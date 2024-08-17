@@ -1,0 +1,43 @@
+[
+    {
+        "id": 1,
+        "question": "why we go for react"
+    },
+    {
+        "id": 2,
+        "question": "why we go for useState"
+    },
+    {
+        "id": 3,
+        "question": "why we go for useRef"
+    },
+    {
+        "id": 4,
+        "question": "why we go for useEffect"
+    },
+    {
+        "id": 5,
+        "question": "why we go for useReducer"
+    },
+    {
+        "id": 6,
+        "question": "what is inline and block level elements"
+    },
+    {
+        "id": 7,
+        "question": "why we go for useState"
+    },
+    {
+        "id": 8,
+        "question": "why we go for useState"
+    },
+    {
+        "id": 9,
+        "question": "why we go for useState"
+    },
+    {
+        "id": 10,
+        "question": "why we go for useState"
+    }
+
+]
